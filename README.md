@@ -105,9 +105,9 @@
 
 
 ------------
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinthanipiuni2001" alt="Piumi Dissanayake" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinthanipiuni2001" alt="chinthanipiumi2001" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
