@@ -105,9 +105,10 @@
 
 
 ------------
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinthanipiuni2001" alt="chinthanipiumi2001" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinthanipiumi2001&theme=flat" alt="chinthanipiumi2001" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -126,7 +127,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinthanipiumi2001&show_icons=true&locale=en" alt="chinthanipiumi2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinthanipiumi2001 &" alt="chinthanipiumi2001" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=chinthanipiumi2001&theme=white&" alt="chinthanipiumi2001" /></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Thanks+for+Reading!...." alt="Typing SVG" /></a>
 
