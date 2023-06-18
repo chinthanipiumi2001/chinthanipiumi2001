@@ -31,9 +31,9 @@
 
 
 - 👋 Hi, I’m Piumi Chinthani Dissanayake
-- 👀 I’m interested in ...Programming, web development and Data Science
+- 👀 I’m interested in ...Web Development and Mobile Development 
 - 🌱 I’m currently learning ..Software Enginnering.  
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Open source projects 
 - 📫 How to reach me ...
 </a>
 <br>
