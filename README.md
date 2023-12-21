@@ -31,7 +31,7 @@
 
 
 - 👋 Hi, I’m Piumi Chinthani Dissanayake
-- 👀 I’m interested in ...Web Development and Mobile Development 
+- 👀 I’m interested in ... Fullstack development and mobile/ android and flutter development  
 - 🌱 I’m currently learning ..Software Enginnering.  
 - 💞️ I’m looking to collaborate on ...Open source projects 
 - 📫 How to reach me ...
