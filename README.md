@@ -10,9 +10,11 @@
 
 <div align = "center" id="badges">
   <a href="your-linkedin-URL">
+  <a href=https://www.linkedin.com/in/piumi-dissanayake-387b92247?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW%2FMtrgMRSxScNbrvUfGpPA%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCbAzl6vdo9ZVJO6Gjj0qTWA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-Blogger-URL">
@@ -63,4 +65,10 @@ Java Script/node js <br>
 - 💬 &nbsp; Ask me anything [here](https://github.com/chinthanipiumi2001)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: chinthani.diss053@gmail.com 
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
