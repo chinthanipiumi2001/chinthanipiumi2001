@@ -158,7 +158,7 @@ Java Script/node js <br>
 </div>
 
 <h2>🏷️ Holopin Badges</h2>
-
+<img src="assets/holopin batch.png" width="600" height="200">
 
 <div align="center">
 <div align="center">
