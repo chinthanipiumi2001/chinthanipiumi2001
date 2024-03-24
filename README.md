@@ -134,6 +134,9 @@ Java Script/node js <br>
 <br>
 <br>
 
+<h3 align="left">📺 Latest YouTube Videos</h3>
+<a href="https://www.youtube.com/watch?v=1lXaKEy97qE"><img src="assets/food app img.png" width="300" height="200" alt="create a food delivery app using android studio flutter" title="create a food delivery app using android studio flutter"></a><a href="https://youtu.be/Pqam4tuVSPc?si=NWUVeiTMB_qTslKT"><img src="assets/education app img.png" width="300" height="200"alt="create an education learning app using android studio flutter" title="create an education learning app using android studio flutter"></a><a href="https://youtu.be/j6_cL71RHzQ?si=hyb5aHioCFfjBvta"><img src="assets/painting app img.png"width="300"height="200" alt="create a simple painting aplication using android studio Kotlin" title="create a simple painting aplication using android studio Kotlin"></a><a href="https://youtu.be/YYms9EhQP64?si=xyOxLqAnQRCVqv_B"><img src="assets/fitness app img.png"width="350"heigth="200" alt="create workout fitness app using android studio flutter" title="create workout fitness app using android studio flutter"></a>
+
 <h3 align="left">💻 GitHub Profile Stats</h3>
 <a href="https://github.com/chinthanipiumi2001">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chinthanipiumi2001&show_icons=true&theme=algolia" />
@@ -160,6 +163,11 @@ Java Script/node js <br>
 </div>
 
 <div align="center">
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
 
