@@ -35,7 +35,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-👋Hey! Piumi here, a final year BSc(Horns) Software engineering student. Meanwhile, I have completed in Bachelor of English language and Teaching and graduated in Teaching.👩‍🎓
 
 ✅ I am an energetic, hardworking individual, a good listener, good at self-learning, building relationships with others, sharing knowledge with others, and good at problem-solving. And a person who will motivate and encourage anyone to succeed in their life. I always look at the brighter side of life and try my best to work my level best to achieve organizational objectives.📚
 
