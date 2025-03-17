@@ -74,7 +74,7 @@ Java Script/node js <br>
 - 🚀 &nbsp; I’m currently exploring python,Java,C#.net etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/chinthanipiumi2001)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: chinthani.diss053@gmail.com 
+- 📫 &nbsp; Reach me out: 
 
 ### My Absolute Favorites:
 
